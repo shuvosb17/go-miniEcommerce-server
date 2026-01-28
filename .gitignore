@@ -1,0 +1,12 @@
+# Go
+/bin/
+/pkg/
+*.exe
+*.log
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
